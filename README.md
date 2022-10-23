@@ -1,4 +1,4 @@
 Bloxflip predictor bot thing in a discord bot
 
-all fixed used a someone elses source
+fixed someones src so it works now
 https://discord.gg/juicy
